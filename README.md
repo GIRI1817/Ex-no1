@@ -55,9 +55,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2026-02-06 at 11 08 03](https://github.com/user-attachments/assets/d3dbc7db-ae62-4b69-b4a0-cfcc31e9e719)
 
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="648" height="437" alt="add" src="https://github.com/user-attachments/assets/c8c09277-7962-47c1-82e0-b935fe0c900e" />
@@ -101,9 +100,8 @@ end
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2026-02-06 at 11 08 41](https://github.com/user-attachments/assets/62fa7d36-7466-4573-b7f8-0697bf87526c)
 
----
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -147,9 +145,8 @@ end
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2026-02-06 at 11 06 45](https://github.com/user-attachments/assets/a3c6cbac-6773-44e1-bd20-53994a38918d)
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="644" height="439" alt="mul" src="https://github.com/user-attachments/assets/6bb6c0ed-19e9-41e3-96ba-f2a31be6ded8" />
@@ -188,9 +185,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2026-02-06 at 11 06 45 (1)](https://github.com/user-attachments/assets/610c4937-867e-414f-ba88-5af3d1187826)
 
----
 ## OUTPUT FROM MASM SOFTWARE
 <img width="649" height="434" alt="div" src="https://github.com/user-attachments/assets/f5a477d5-22c6-49ad-a317-37680f6724a4" />
 
